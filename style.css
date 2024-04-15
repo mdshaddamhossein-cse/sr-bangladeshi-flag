@@ -1,0 +1,52 @@
+
+/* Start bangladeshi flag style by Sr */
+body
+{
+	background-color: #abc;
+}
+h1
+{
+    font-family: monospace; 
+    color: azure;
+}
+#triangle
+{
+	width: 100px;
+	height: 450px;
+	border-left: 50px solid;
+	border-left-width: 9px;
+	border-top-width: 9px;
+	color: cyan;
+	padding-top: 30px;
+	padding-left: 0px;
+	margin-left: 50px;
+}
+#rectangle
+{
+	width: 200px;
+	height: 120px;
+	background-color: green;
+	padding-top: 1px;
+	padding-bottom: 17px;
+}
+#circle
+{
+	width: 75px;
+	height: 55px;
+	background-color: red;
+	border:1 solid 1px;
+	border-radius: 100%;
+	margin-left: 65px;
+	margin-right: 65px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	padding-top: 25px;
+}
+#rectangle-flag
+{
+	width: 50px;
+	height: 40px;
+	background-color: blue;
+	margin-left: 30px;
+}
+/* End bangladeshi flag style by Sr */
